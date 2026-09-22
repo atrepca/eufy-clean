@@ -98,7 +98,7 @@ Sends a notification when the robot reports an error (Wheel Stuck, Sensor Dirty,
 | Total cleaning area / time / count | Lifetime stats |
 | Dock firmware version | Station FW |
 | Error code & description | Real-time |
-| Accessory life remaining | Filter, brushes, mop, tray (hours) |
+| Accessory life remaining | Filter, brushes, mop, tray; dust bag on models that report it (hours) |
 
 **Extended device info:** Serial number, MAC address, firmware version in the HA device panel.
 
